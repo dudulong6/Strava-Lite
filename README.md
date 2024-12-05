@@ -1,4 +1,4 @@
-# Strava Lite
+# Strava Lite  https://github.com/dudulong6/Strava-Lite
 
 [GitHub Repository Link](https://github.com/roccopolimen/nextround)
 
