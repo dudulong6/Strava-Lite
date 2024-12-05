@@ -1,6 +1,6 @@
-# Strava Lite  https://github.com/dudulong6/Strava-Lite
+# Strava Lite 
 
-[GitHub Repository Link](https://github.com/roccopolimen/nextround)
+[GitHub Repository Link] (https://github.com/dudulong6/Strava-Lite)
 
 ** Name **: SHILONG ZHANG
 ** Email **: szhang104@stevens.edu
