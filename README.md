@@ -11,3 +11,5 @@ Strava Lite is a basic server application that helps users track their running w
 
 ## Problem and solution
 There was a problem with JSON data processing during the development process, but it was successfully solved by referring to Flask documentation and community resources.
+There is minimal error handling, which might make it hard to identify issues during runtime.
+Solution: Enhance error handling by adding descriptive error messages, logging errors, and catching exceptions using try-except blocks. Use Python’s logging module to record error details, which helps in debugging and operational monitoring.
